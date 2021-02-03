@@ -23,3 +23,8 @@
 | 2021 | USENIX   | NYX：Greybox Hypervisor Fuzzing using Fast Snaphots and Affine Types                                | 侯黎阳 | 12.25|
 | 2019 | TDSC     | μvuldeepecker: A deep learning-based system for multiclass vulnerability detection       | 叶童 | 12.25 |
 | 2020 | USENIX   | FANS: Fuzzing Android Native System Services via Automated Interface Analysis       | 侯黎阳 | 12.27 |
+| 2018 | NDSS     | VulDeePecker:A Deep Learning-Based System for Vulnerability Detection | 叶童 | 12.27|
+| 2019 | IEEE TDSC| 𝝁VulDeePecker:A Deep Learning-Based System for Multiclass Vulnerability Detection | 叶童 | 01.10|
+| 2019 | NuerIPS  | Devign:Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks | 叶童 | 01.30|
+| 2020 | IEEE TIFS | Combining Graph-based Learning with Automated Data Collection for Code Vulnerability Detection | 叶童 |02.10|
+| 2020 | USENIX   | MVP:Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures | 叶童 | 02.20|
